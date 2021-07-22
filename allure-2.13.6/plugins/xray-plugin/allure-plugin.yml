@@ -1,5 +1,0 @@
-id: xray
-name: Xray Plugin
-description: The plugin that adds support for Xray integration.
-extensions:
-  - io.qameta.allure-2.13.6.xray.XrayTestRunExportPlugin
